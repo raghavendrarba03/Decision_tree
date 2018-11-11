@@ -1,0 +1,361 @@
+age,sex,pain_type,blood_pressure,cholestoral,max_heart_rate,exercise_induced_angina,heart_disease
+70,male,asymptomatic,130,322,109,no,Presence
+67,female,non-anginal pain,115,564,160,no,Absence
+57,male,atypical angina,124,261,141,no,Presence
+64,male,asymptomatic,128,263,105,yes,Absence
+74,female,atypical angina,120,269,121,yes,Absence
+65,male,asymptomatic,120,177,140,no,Absence
+56,male,non-anginal pain,130,256,142,yes,Presence
+59,male,asymptomatic,110,239,142,yes,Presence
+60,male,asymptomatic,140,293,170,no,Presence
+63,female,asymptomatic,150,407,154,no,Presence
+44,male,atypical angina,120,263,173,no,Absence
+56,female,atypical angina,140,294,153,no,Absence
+57,male,asymptomatic,140,192,148,no,Absence
+59,male,asymptomatic,135,234,161,no,Absence
+53,male,asymptomatic,142,226,111,yes,Absence
+44,male,non-anginal pain,140,235,180,no,Absence
+61,male,typical angina,134,234,145,no,Presence
+57,female,asymptomatic,128,303,159,no,Absence
+71,female,asymptomatic,112,149,125,no,Absence
+46,male,asymptomatic,140,311,120,yes,Presence
+53,male,asymptomatic,140,203,155,yes,Presence
+64,male,typical angina,110,211,144,yes,Absence
+40,male,typical angina,140,199,178,yes,Absence
+67,male,asymptomatic,120,229,129,yes,Presence
+48,male,atypical angina,130,245,180,no,Absence
+43,male,asymptomatic,115,303,181,no,Absence
+47,male,asymptomatic,112,204,143,no,Absence
+54,female,atypical angina,132,288,159,yes,Absence
+48,female,non-anginal pain,130,275,139,no,Absence
+46,female,asymptomatic,138,243,152,yes,Absence
+51,female,non-anginal pain,120,295,157,no,Absence
+58,male,non-anginal pain,112,230,165,no,Presence
+71,female,non-anginal pain,110,265,130,no,Absence
+57,male,non-anginal pain,128,229,150,no,Presence
+66,male,asymptomatic,160,228,138,no,Absence
+37,female,non-anginal pain,120,215,170,no,Absence
+59,male,asymptomatic,170,326,140,yes,Presence
+50,male,asymptomatic,144,200,126,yes,Presence
+48,male,asymptomatic,130,256,150,yes,Presence
+61,male,asymptomatic,140,207,138,yes,Presence
+59,male,typical angina,160,273,125,no,Presence
+42,male,non-anginal pain,130,180,150,no,Absence
+48,male,asymptomatic,122,222,186,no,Absence
+40,male,asymptomatic,152,223,181,no,Presence
+62,female,asymptomatic,124,209,163,no,Absence
+44,male,non-anginal pain,130,233,179,yes,Absence
+46,male,atypical angina,101,197,156,no,Absence
+59,male,non-anginal pain,126,218,134,no,Presence
+58,male,non-anginal pain,140,211,165,no,Absence
+49,male,non-anginal pain,118,149,126,no,Presence
+44,male,asymptomatic,110,197,177,no,Presence
+66,male,atypical angina,160,246,120,yes,Presence
+65,female,asymptomatic,150,225,114,no,Presence
+42,male,asymptomatic,136,315,125,yes,Presence
+52,male,atypical angina,128,205,184,no,Absence
+65,female,non-anginal pain,140,417,157,no,Absence
+63,female,atypical angina,140,195,179,no,Absence
+45,female,atypical angina,130,234,175,no,Absence
+41,female,atypical angina,105,198,168,no,Absence
+61,male,asymptomatic,138,166,125,yes,Presence
+60,female,non-anginal pain,120,178,96,no,Absence
+59,female,asymptomatic,174,249,143,yes,Presence
+62,male,atypical angina,120,281,103,no,Presence
+57,male,non-anginal pain,150,126,173,no,Absence
+51,female,asymptomatic,130,305,142,yes,Presence
+44,male,non-anginal pain,120,226,169,no,Absence
+60,female,typical angina,150,240,171,no,Absence
+63,male,typical angina,145,233,150,no,Absence
+57,male,asymptomatic,150,276,112,yes,Presence
+51,male,asymptomatic,140,261,186,yes,Absence
+58,female,atypical angina,136,319,152,no,Presence
+44,female,non-anginal pain,118,242,149,no,Absence
+47,male,non-anginal pain,108,243,152,no,Presence
+61,male,asymptomatic,120,260,140,yes,Presence
+57,female,asymptomatic,120,354,163,yes,Absence
+70,male,atypical angina,156,245,143,no,Absence
+76,female,non-anginal pain,140,197,116,no,Absence
+67,female,asymptomatic,106,223,142,no,Absence
+45,male,asymptomatic,142,309,147,yes,Presence
+45,male,asymptomatic,104,208,148,yes,Absence
+39,female,non-anginal pain,94,199,179,no,Absence
+42,female,non-anginal pain,120,209,173,no,Absence
+56,male,atypical angina,120,236,178,no,Absence
+58,male,asymptomatic,146,218,105,no,Presence
+35,male,asymptomatic,120,198,130,yes,Presence
+58,male,asymptomatic,150,270,111,yes,Presence
+41,male,non-anginal pain,130,214,168,no,Absence
+57,male,asymptomatic,110,201,126,yes,Absence
+42,male,typical angina,148,244,178,no,Absence
+62,male,atypical angina,128,208,140,no,Absence
+59,male,typical angina,178,270,145,no,Absence
+41,female,atypical angina,126,306,163,no,Absence
+50,male,asymptomatic,150,243,128,no,Presence
+59,male,atypical angina,140,221,164,yes,Absence
+61,female,asymptomatic,130,330,169,no,Presence
+54,male,asymptomatic,124,266,109,yes,Presence
+54,male,asymptomatic,110,206,108,yes,Presence
+52,male,asymptomatic,125,212,168,no,Presence
+47,male,asymptomatic,110,275,118,yes,Presence
+66,male,asymptomatic,120,302,151,no,Absence
+58,male,asymptomatic,100,234,156,no,Presence
+64,female,non-anginal pain,140,313,133,no,Absence
+50,female,atypical angina,120,244,162,no,Absence
+44,female,non-anginal pain,108,141,175,no,Absence
+67,male,asymptomatic,120,237,71,no,Presence
+49,female,asymptomatic,130,269,163,no,Absence
+57,male,asymptomatic,165,289,124,no,Presence
+63,male,asymptomatic,130,254,147,no,Presence
+48,male,asymptomatic,124,274,166,no,Presence
+51,male,non-anginal pain,100,222,143,yes,Absence
+60,female,asymptomatic,150,258,157,no,Presence
+59,male,asymptomatic,140,177,162,yes,Presence
+45,female,atypical angina,112,160,138,no,Absence
+55,female,asymptomatic,180,327,117,yes,Presence
+41,male,atypical angina,110,235,153,no,Absence
+60,female,asymptomatic,158,305,161,no,Presence
+54,female,non-anginal pain,135,304,170,no,Absence
+42,male,atypical angina,120,295,162,no,Absence
+49,female,atypical angina,134,271,162,no,Absence
+46,male,asymptomatic,120,249,144,no,Presence
+56,female,asymptomatic,200,288,133,yes,Presence
+66,female,typical angina,150,226,114,no,Absence
+56,male,asymptomatic,130,283,103,yes,Presence
+49,male,non-anginal pain,120,188,139,no,Presence
+54,male,asymptomatic,122,286,116,yes,Presence
+57,male,asymptomatic,152,274,88,yes,Presence
+65,female,non-anginal pain,160,360,151,no,Absence
+54,male,non-anginal pain,125,273,152,no,Absence
+54,female,non-anginal pain,160,201,163,no,Absence
+62,male,asymptomatic,120,267,99,yes,Presence
+52,female,non-anginal pain,136,196,169,no,Absence
+52,male,atypical angina,134,201,158,no,Absence
+60,male,asymptomatic,117,230,160,yes,Presence
+63,female,asymptomatic,108,269,169,yes,Presence
+66,male,asymptomatic,112,212,132,yes,Presence
+42,male,asymptomatic,140,226,178,no,Absence
+64,male,asymptomatic,120,246,96,yes,Presence
+54,male,non-anginal pain,150,232,165,no,Absence
+46,female,non-anginal pain,142,177,160,yes,Absence
+67,female,non-anginal pain,152,277,172,no,Absence
+56,male,asymptomatic,125,249,144,yes,Presence
+34,female,atypical angina,118,210,192,no,Absence
+57,male,asymptomatic,132,207,168,yes,Absence
+64,male,asymptomatic,145,212,132,no,Presence
+59,male,asymptomatic,138,271,182,no,Absence
+50,male,non-anginal pain,140,233,163,no,Presence
+51,male,typical angina,125,213,125,yes,Absence
+54,male,atypical angina,192,283,195,no,Presence
+53,male,asymptomatic,123,282,95,yes,Presence
+52,male,asymptomatic,112,230,160,no,Presence
+40,male,asymptomatic,110,167,114,yes,Presence
+58,male,non-anginal pain,132,224,173,no,Presence
+41,female,non-anginal pain,112,268,172,yes,Absence
+41,male,non-anginal pain,112,250,179,no,Absence
+50,female,non-anginal pain,120,219,158,no,Absence
+54,female,non-anginal pain,108,267,167,no,Absence
+64,female,asymptomatic,130,303,122,no,Absence
+51,female,non-anginal pain,130,256,149,no,Absence
+46,female,atypical angina,105,204,172,no,Absence
+55,male,asymptomatic,140,217,111,yes,Presence
+45,male,atypical angina,128,308,170,no,Absence
+56,male,typical angina,120,193,162,no,Absence
+66,female,asymptomatic,178,228,165,yes,Presence
+38,male,typical angina,120,231,182,yes,Presence
+62,female,asymptomatic,150,244,154,yes,Presence
+55,male,atypical angina,130,262,155,no,Absence
+58,male,asymptomatic,128,259,130,yes,Presence
+43,male,asymptomatic,110,211,161,no,Absence
+64,female,asymptomatic,180,325,154,yes,Absence
+50,female,asymptomatic,110,254,159,no,Absence
+53,male,non-anginal pain,130,197,152,no,Absence
+45,female,asymptomatic,138,236,152,yes,Absence
+65,male,typical angina,138,282,174,no,Presence
+69,male,typical angina,160,234,131,no,Absence
+69,male,non-anginal pain,140,254,146,no,Presence
+67,male,asymptomatic,100,299,125,yes,Presence
+68,female,non-anginal pain,120,211,115,no,Absence
+34,male,typical angina,118,182,174,no,Absence
+62,female,asymptomatic,138,294,106,no,Presence
+51,male,asymptomatic,140,298,122,yes,Presence
+46,male,non-anginal pain,150,231,147,no,Presence
+67,male,asymptomatic,125,254,163,no,Presence
+50,male,non-anginal pain,129,196,163,no,Absence
+42,male,non-anginal pain,120,240,194,no,Absence
+56,female,asymptomatic,134,409,150,yes,Presence
+41,male,asymptomatic,110,172,158,no,Presence
+42,female,asymptomatic,102,265,122,no,Absence
+53,male,non-anginal pain,130,246,173,no,Absence
+43,male,non-anginal pain,130,315,162,no,Absence
+56,male,asymptomatic,132,184,105,yes,Presence
+52,male,asymptomatic,108,233,147,no,Absence
+62,female,asymptomatic,140,394,157,no,Absence
+70,male,non-anginal pain,160,269,112,yes,Presence
+54,male,asymptomatic,140,239,160,no,Absence
+70,male,asymptomatic,145,174,125,yes,Presence
+54,male,atypical angina,108,309,156,no,Absence
+35,male,asymptomatic,126,282,156,yes,Presence
+48,male,non-anginal pain,124,255,175,no,Absence
+55,female,atypical angina,135,250,161,no,Absence
+58,female,asymptomatic,100,248,122,no,Absence
+54,female,non-anginal pain,110,214,158,no,Absence
+69,female,typical angina,140,239,151,no,Absence
+77,male,asymptomatic,125,304,162,yes,Presence
+68,male,non-anginal pain,118,277,151,no,Absence
+58,male,asymptomatic,125,300,171,no,Presence
+60,male,asymptomatic,125,258,141,yes,Presence
+51,male,asymptomatic,140,299,173,yes,Presence
+55,male,asymptomatic,160,289,145,yes,Presence
+52,male,typical angina,152,298,178,no,Absence
+60,female,non-anginal pain,102,318,160,no,Absence
+58,male,non-anginal pain,105,240,154,yes,Absence
+64,male,non-anginal pain,125,309,131,yes,Presence
+37,male,non-anginal pain,130,250,187,no,Absence
+59,male,typical angina,170,288,159,no,Presence
+51,male,non-anginal pain,125,245,166,no,Absence
+43,female,non-anginal pain,122,213,165,no,Absence
+58,male,asymptomatic,128,216,131,yes,Presence
+29,male,atypical angina,130,204,202,no,Absence
+41,female,atypical angina,130,204,172,no,Absence
+63,female,non-anginal pain,135,252,172,no,Absence
+51,male,non-anginal pain,94,227,154,yes,Absence
+54,male,non-anginal pain,120,258,147,no,Absence
+44,male,atypical angina,120,220,170,no,Absence
+54,male,asymptomatic,110,239,126,yes,Presence
+65,male,asymptomatic,135,254,127,no,Presence
+57,male,non-anginal pain,150,168,174,no,Absence
+63,male,asymptomatic,130,330,132,yes,Presence
+35,female,asymptomatic,138,183,182,no,Absence
+41,male,atypical angina,135,203,132,no,Absence
+62,female,non-anginal pain,130,263,97,no,Presence
+43,female,asymptomatic,132,341,136,yes,Presence
+58,female,typical angina,150,283,162,no,Absence
+52,male,typical angina,118,186,190,no,Absence
+61,female,asymptomatic,145,307,146,yes,Presence
+39,male,asymptomatic,118,219,140,no,Presence
+45,male,asymptomatic,115,260,185,no,Absence
+52,male,asymptomatic,128,255,161,yes,Presence
+62,male,non-anginal pain,130,231,146,no,Absence
+62,female,asymptomatic,160,164,145,no,Presence
+53,female,asymptomatic,138,234,160,no,Absence
+43,male,asymptomatic,120,177,120,yes,Presence
+47,male,non-anginal pain,138,257,156,no,Absence
+52,male,atypical angina,120,325,172,no,Absence
+68,male,non-anginal pain,180,274,150,yes,Presence
+39,male,non-anginal pain,140,321,182,no,Absence
+53,female,asymptomatic,130,264,143,no,Absence
+62,female,asymptomatic,140,268,160,no,Presence
+51,female,non-anginal pain,140,308,142,no,Absence
+60,male,asymptomatic,130,253,144,yes,Presence
+65,male,asymptomatic,110,248,158,no,Presence
+65,female,non-anginal pain,155,269,148,no,Absence
+60,male,non-anginal pain,140,185,155,no,Presence
+60,male,asymptomatic,145,282,142,yes,Presence
+54,male,asymptomatic,120,188,113,no,Presence
+44,male,atypical angina,130,219,188,no,Absence
+44,male,asymptomatic,112,290,153,no,Presence
+51,male,non-anginal pain,110,175,123,no,Absence
+59,male,non-anginal pain,150,212,157,no,Absence
+71,female,atypical angina,160,302,162,no,Absence
+61,male,non-anginal pain,150,243,137,yes,Absence
+55,male,asymptomatic,132,353,132,yes,Presence
+64,male,non-anginal pain,140,335,158,no,Presence
+43,male,asymptomatic,150,247,171,no,Absence
+58,female,non-anginal pain,120,340,172,no,Absence
+60,male,asymptomatic,130,206,132,yes,Presence
+58,male,atypical angina,120,284,160,no,Presence
+49,male,atypical angina,130,266,171,no,Absence
+48,male,atypical angina,110,229,168,no,Presence
+52,male,non-anginal pain,172,199,162,no,Absence
+56,male,asymptomatic,132,184,105,yes,Presence
+55,male,asymptomatic,160,289,145,yes,Presence
+41,male,atypical angina,135,203,132,no,Absence
+39,male,non-anginal pain,140,321,182,no,Absence
+59,male,typical angina,170,288,159,no,Presence
+47,male,non-anginal pain,138,257,156,no,Absence
+51,male,non-anginal pain,125,245,166,no,Absence
+49,male,atypical angina,130,266,171,no,Absence
+54,female,non-anginal pain,110,214,158,no,Absence
+51,male,asymptomatic,140,299,173,yes,Presence
+60,male,asymptomatic,130,206,132,yes,Presence
+60,male,asymptomatic,125,258,141,yes,Presence
+51,male,non-anginal pain,94,227,154,yes,Absence
+46,male,non-anginal pain,150,231,147,no,Presence
+39,male,asymptomatic,118,219,140,no,Presence
+58,male,atypical angina,120,284,160,no,Presence
+60,male,non-anginal pain,140,185,155,no,Presence
+65,male,asymptomatic,135,254,127,no,Presence
+35,male,asymptomatic,126,282,156,yes,Presence
+68,male,non-anginal pain,180,274,150,yes,Presence
+55,male,asymptomatic,132,353,132,yes,Presence
+60,male,asymptomatic,145,282,142,yes,Presence
+50,male,non-anginal pain,129,196,163,no,Absence
+52,male,non-anginal pain,172,199,162,no,Absence
+57,male,non-anginal pain,150,168,174,no,Absence
+43,male,asymptomatic,120,177,120,yes,Presence
+48,male,non-anginal pain,124,255,175,no,Absence
+54,male,asymptomatic,110,239,126,yes,Presence
+58,female,non-anginal pain,120,340,172,no,Absence
+41,female,atypical angina,130,204,172,no,Absence
+56,female,asymptomatic,134,409,150,yes,Presence
+61,male,non-anginal pain,150,243,137,yes,Absence
+62,female,asymptomatic,160,164,145,no,Presence
+42,male,non-anginal pain,120,240,194,no,Absence
+51,female,non-anginal pain,140,308,142,no,Absence
+51,male,non-anginal pain,110,175,123,no,Absence
+44,male,atypical angina,130,219,188,no,Absence
+60,male,asymptomatic,130,253,144,yes,Presence
+53,male,non-anginal pain,130,246,173,no,Absence
+58,male,asymptomatic,128,216,131,yes,Presence
+67,male,asymptomatic,160,286,108,yes,Presence
+62,female,asymptomatic,140,268,160,no,Presence
+41,male,asymptomatic,110,172,158,no,Presence
+54,male,atypical angina,108,309,156,no,Absence
+61,female,asymptomatic,145,307,146,yes,Presence
+70,male,non-anginal pain,160,269,112,yes,Presence
+64,male,non-anginal pain,125,309,131,yes,Presence
+55,female,atypical angina,135,250,161,no,Absence
+52,male,asymptomatic,128,255,161,yes,Presence
+62,female,non-anginal pain,130,263,97,no,Presence
+58,female,asymptomatic,100,248,122,no,Absence
+52,male,typical angina,152,298,178,no,Absence
+58,male,non-anginal pain,105,240,154,yes,Absence
+54,male,non-anginal pain,120,258,147,no,Absence
+37,male,non-anginal pain,130,250,187,no,Absence
+63,female,non-anginal pain,135,252,172,no,Absence
+64,male,non-anginal pain,140,335,158,no,Presence
+35,female,asymptomatic,138,183,182,no,Absence
+62,female,asymptomatic,140,394,157,no,Absence
+67,male,asymptomatic,125,254,163,no,Presence
+44,male,asymptomatic,112,290,153,no,Presence
+54,male,asymptomatic,140,239,160,no,Absence
+52,male,asymptomatic,108,233,147,no,Absence
+53,female,asymptomatic,138,234,160,no,Absence
+43,female,asymptomatic,132,341,136,yes,Presence
+44,male,atypical angina,120,220,170,no,Absence
+58,male,asymptomatic,125,300,171,no,Presence
+58,female,typical angina,150,283,162,no,Absence
+51,male,asymptomatic,140,298,122,yes,Presence
+69,female,typical angina,140,239,151,no,Absence
+60,female,non-anginal pain,102,318,160,no,Absence
+65,male,asymptomatic,110,248,158,no,Presence
+43,male,non-anginal pain,130,315,162,no,Absence
+53,female,asymptomatic,130,264,143,no,Absence
+71,female,atypical angina,160,302,162,no,Absence
+62,male,non-anginal pain,130,231,146,no,Absence
+70,male,asymptomatic,145,174,125,yes,Presence
+45,male,asymptomatic,115,260,185,no,Absence
+63,male,asymptomatic,130,330,132,yes,Presence
+43,female,non-anginal pain,122,213,165,no,Absence
+52,male,atypical angina,120,325,172,no,Absence
+68,male,non-anginal pain,118,277,151,no,Absence
+59,male,non-anginal pain,150,212,157,no,Absence
+29,male,atypical angina,130,204,202,no,Absence
+54,male,asymptomatic,120,188,113,no,Presence
+65,female,non-anginal pain,155,269,148,no,Absence
+42,female,asymptomatic,102,265,122,no,Absence
+77,male,asymptomatic,125,304,162,yes,Presence
+43,male,asymptomatic,150,247,171,no,Absence
+52,male,typical angina,118,186,190,no,Absence
+48,male,atypical angina,110,229,168,no,Presence
